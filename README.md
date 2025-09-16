@@ -21,7 +21,7 @@ The primary objective is to build a **high-performance regression model** that a
 
 The project is structured into two main parts:  
 
-1. **Model Training** – [`flight_price_prediction_final.py`](./flight_price_prediction_final.py)  
+1. **Model Training** – [`flight_price_prediction_final.py`](flight_price_prediction_final.py.py)  
    - Handles **data cleaning, feature engineering, model training, hyperparameter tuning, and evaluation**.  
    - Outputs a serialized model file (`flight_price_model.pkl`).  
 
